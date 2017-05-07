@@ -1,0 +1,2 @@
+baseurl: /learning-jekyll
+exclude: [readme.md]
